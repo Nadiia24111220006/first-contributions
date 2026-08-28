@@ -21,7 +21,7 @@
 - [Asra Fatma](https://github.com/asrafatma)
 - [Xtroon - Ome Tiwari](https://github.com/xtroon)
 * [Meenakshi M](https://github.com/meenakshim7)
-* [Nadiia Petliakivska](https://github.com/Nadiia24111220006)
+* [Nadia Petliakivska](https://github.com/Nadiia24111220006)
 - [<GitHub naoyajojo>](https://github.com/<GitHub naoyajojo>)
 - Angshukana Haldar(https://github.com/Angs-8)
 - Sujeet Gupta
